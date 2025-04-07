@@ -1,0 +1,14 @@
+[
+	{
+		"kode_matakuliah": "IF101",
+		"nama_matakuliah": "Pemrograman Dasar"
+	},
+	{
+		"kode_matakuliah": "IF102",
+		"nama_matakuliah": "Struktur Data"
+	},
+	{
+		"kode_matakuliah": "IF103",
+		"nama_matakuliah": "Algoritma"
+	}
+]
