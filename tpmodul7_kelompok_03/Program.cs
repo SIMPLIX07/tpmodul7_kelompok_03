@@ -12,6 +12,7 @@ namespace tpmodul7_kelompok_03
         {
 
             DataMahasiswa103022300056.ReadJSON();
+            KuliahMahasiswa103022300056.ReadJSON();
             Console.WriteLine();
         }
     }
