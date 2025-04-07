@@ -12,7 +12,7 @@ namespace tpmodul7_kelompok_03
         public static void ReadJSON()
         {
             // Tentukan path file JSON
-            string filePath = @"C:\tumbal\tp7_2_103022300113.json";  // Pastikan path ini sesuai dengan file Anda
+            string filePath = @"C:\tumbal\tp7_2_103022300113.json";  
 
             // Membaca file JSON
             string jsonString = File.ReadAllText(filePath);
