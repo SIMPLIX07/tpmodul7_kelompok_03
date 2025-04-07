@@ -11,7 +11,7 @@ namespace tpmodul7_kelompok_03
         public static void Main(string[] args)
         {
 
-            DataMahasiswa103022300113.ReadJSON();
+            DataMahasiswa103022300056.ReadJSON();
             Console.WriteLine();
         }
     }
