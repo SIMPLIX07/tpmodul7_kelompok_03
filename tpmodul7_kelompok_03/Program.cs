@@ -1,11 +1,10 @@
 ﻿using System;
 using System.IO;
 using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace tpmodul7_kelompok_03
 {
-
-
     internal class Program
     {
         public static void Main(string[] args)
@@ -13,6 +12,12 @@ namespace tpmodul7_kelompok_03
 
             DataMahasiswa103022300056.ReadJSON();
             KuliahMahasiswa103022300056.ReadJSON();
+            Console.WriteLine();
+
+            DataMahasiswa103022300147.ReadJSON();
+            Console.WriteLine();
+
+            KuliahMahasiswa103022300147.ReadJSONKuliah();
             Console.WriteLine();
         }
     }
